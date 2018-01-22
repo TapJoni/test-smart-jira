@@ -1,1 +1,3 @@
 this is a jira smart commit test
+
+test 2
