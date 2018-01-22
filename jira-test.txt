@@ -3,3 +3,5 @@ this is a jira smart commit test
 test 2
 
 smart commit status change | todo -> in-progress
+
+testing test-branch branch
