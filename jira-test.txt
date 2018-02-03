@@ -1,0 +1,13 @@
+this is a jira smart commit test
+
+test 2
+
+smart commit status change | todo -> in-progress
+
+testing test-branch branch
+
+
+
+This is a second test for crucible review in action
+
+last addition 1210
